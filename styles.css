@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://img.freepik.com/free-vector/cats-doodle-pattern-background_53876-100663.jpg?w=900&t=st=1696146730~exp=1696147330~hmac=17737755fea7068178dcf564b9a5fbe617bf8fa089ef41e142af53ee1069a18c");
+    background-size: cover; 
+  }
+  
+  #btn {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    background-color: #212529;
+    color: white;
+    border-radius: 2em;
+    height: 70px;
+    width: 350px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+ #btn:hover {
+    background-color: #a294bd;
+    border-color: #a294bd;
+    color: white;
+    border-radius: 2em;
+  }
+
+#container{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-size: 150%;
+  font-weight: bold;
+  padding-inline-end: 30px;
+  padding-inline-start: 30px;
+  margin: auto;
+  background-color: rgb(236, 236, 236, 0.9);
+  width: 600px;
+  height:150px;
+  box-shadow: 5px 5px 20px 10px rgba(55, 53, 70, 0.3);
+  border-radius: 20px;
+  
+}
